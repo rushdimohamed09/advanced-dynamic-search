@@ -10,4 +10,9 @@ New features as follows
 7. Can return any number of columns (which on one column was able from the previus version
 8.Hope this will help you to save time while coding.
 
+3 example codes are given in the index.php 
+exmaple 1 is searching in single table 
+example 2 is searching within two table 
+example 3 is searching within three table 
+
 Thank you
