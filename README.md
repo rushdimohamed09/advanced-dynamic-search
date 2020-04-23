@@ -8,3 +8,6 @@ New features as follows
 5. Can return values based on ASC or DESC
 6. Enhaced JSON application on the query to get a good knowledge about how to use JSON 
 7. Can return any number of columns (which on one column was able from the previus version
+8.Hope this will help you to save time while coding.
+
+Thank you
